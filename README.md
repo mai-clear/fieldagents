@@ -1,3 +1,5 @@
 # Field Agents
 
-Remember to add keys & pem to server
+Game and code from Lenin Compres
+
+*Remember to add keys & pem to server
